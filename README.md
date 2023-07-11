@@ -1,1 +1,1 @@
-# rsschool-c
+https://GITHUB-USERNAME.github.io/rsschool-cv/c
