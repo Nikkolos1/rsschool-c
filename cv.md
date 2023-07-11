@@ -22,3 +22,7 @@ _Leather handmade master (2021- until now);_
 
 _Program skills not found;_
 _English level A2._
+_Code example:_
+function multiply(a, b) {
+return a * b;
+}
